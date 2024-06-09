@@ -19,7 +19,8 @@ My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher wh
 [Mentor's Website](https://htilua.org/about-the-pi)
 
 
-# CyberPi Sensor Integration for Education
+## About My Project
+
 
 **Problem:**
 Educational software that leverages physical computing devices and sensors needs more exploration.
@@ -33,7 +34,6 @@ This project involves:
 
 **Expected Outcome:**
 A comprehensive conference poster presentation at the end of the DREU program, detailing the system's architecture and the educational impact of using CyberPi for data-driven learning.
-
 
 
 
