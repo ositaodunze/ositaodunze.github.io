@@ -19,9 +19,25 @@ My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher wh
 [Mentor's Website](https://htilua.org/about-the-pi)
 
 
-## About My Project
+# CyberPi Sensor Integration for Education
 
-Project description goes here.
+**Problem:**
+Educational software that leverages physical computing devices and sensors needs more exploration.
+
+**Approach:**
+This project involves:
+
+- Integrating Makeblock and CyberPi with Keyestudio sensors.
+- Emphasizing data collection and visualization to enhance educational experiences.
+- Creating applications that show real-time data use from sensors like temperature, humidity, and motion.
+
+**Expected Outcome:**
+A comprehensive conference poster presentation at the end of the DREU program, detailing the system's architecture and the educational impact of using CyberPi for data-driven learning.
+
+
+
+
+
 
 [My Final Report](files/finalreport.pdf)
 
