@@ -39,7 +39,7 @@ A comprehensive conference poster presentation at the end of the DREU program, d
 
 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](/Users/ositaodunze/Downloads/Osita_Final_Report.pdf)
 
 ## My Blog
 
